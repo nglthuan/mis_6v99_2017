@@ -1,0 +1,7 @@
+tail_number,origin,destination,departure_time,arrival_time
+T1,AUS,DAL,600,650
+T2,DAL,HOU,600,705
+T3,DAL,HOU,600,705
+T4,HOU,AUS,600,645
+T5,HOU,DAL,600,705
+T6,HOU,DAL,600,705
